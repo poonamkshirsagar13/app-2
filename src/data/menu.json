@@ -1,0 +1,42 @@
+[
+    {
+        "label": "Users",
+        "path": "users",
+        "id": "1",
+        "isActive": true,
+        "enable": true,
+        "visible":true,
+        "iconVisibility": true,
+        "icon":"/imgs/users.svg"
+    },
+    {
+        "label": "product",
+        "path": "products",
+        "id": "2",
+        "isActive": true,
+        "enable": true,
+        "visible":true,
+        "iconVisibility": true,
+        "icon":"/imgs/products.svg"
+    },
+    {
+        "label": "About",
+        "path": "about",
+        "id": "3",
+        "isActive": true,
+        "enable": false,
+        "visible":true,
+        "iconVisibility": false,
+        "icon":"/imgs/bikes.svg"
+    },
+    {
+        "label": "Contact",
+        "path": "contact",
+        "id": "4",
+        "isActive": true,
+        "enable": true,
+        "visible":true,
+        "iconVisibility": true,
+        "icon":"/imgs/cont.png"
+    }
+]

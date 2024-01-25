@@ -1,0 +1,11 @@
+.header{
+    height:100px;
+    background-color: antiquewhite;
+}
+.header-inline{
+    display: inline-flex;
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
